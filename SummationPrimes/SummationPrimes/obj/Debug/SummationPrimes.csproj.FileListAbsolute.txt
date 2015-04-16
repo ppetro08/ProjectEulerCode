@@ -1,0 +1,5 @@
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\SummationPrimes\SummationPrimes\bin\Debug\SummationPrimes.exe.config
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\SummationPrimes\SummationPrimes\bin\Debug\SummationPrimes.exe
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\SummationPrimes\SummationPrimes\bin\Debug\SummationPrimes.pdb
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\SummationPrimes\SummationPrimes\obj\Debug\SummationPrimes.exe
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\SummationPrimes\SummationPrimes\obj\Debug\SummationPrimes.pdb

@@ -1,0 +1,6 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\TriangleDivisor\TriangleDivisor\bin\Debug\TriangleDivisor.exe.config
+c:\users\ppetrosino\documents\visual studio 2012\Projects\TriangleDivisor\TriangleDivisor\bin\Debug\TriangleDivisor.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\TriangleDivisor\TriangleDivisor\bin\Debug\TriangleDivisor.pdb
+c:\users\ppetrosino\documents\visual studio 2012\Projects\TriangleDivisor\TriangleDivisor\obj\Debug\TriangleDivisor.csprojResolveAssemblyReference.cache
+c:\users\ppetrosino\documents\visual studio 2012\Projects\TriangleDivisor\TriangleDivisor\obj\Debug\TriangleDivisor.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\TriangleDivisor\TriangleDivisor\obj\Debug\TriangleDivisor.pdb

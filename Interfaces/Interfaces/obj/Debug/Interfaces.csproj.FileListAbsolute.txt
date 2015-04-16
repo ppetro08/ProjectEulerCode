@@ -1,0 +1,5 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe.config
+c:\users\ppetrosino\documents\visual studio 2012\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
+c:\users\ppetrosino\documents\visual studio 2012\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\Interfaces\Interfaces\obj\Debug\Interfaces.pdb

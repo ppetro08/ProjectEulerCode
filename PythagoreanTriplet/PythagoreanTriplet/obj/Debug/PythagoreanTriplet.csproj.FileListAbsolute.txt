@@ -1,0 +1,6 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PythagoreanTriplet\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.exe.config
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PythagoreanTriplet\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PythagoreanTriplet\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.pdb
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PythagoreanTriplet\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.csprojResolveAssemblyReference.cache
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PythagoreanTriplet\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PythagoreanTriplet\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.pdb

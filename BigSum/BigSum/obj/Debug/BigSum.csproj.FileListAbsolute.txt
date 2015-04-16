@@ -1,0 +1,5 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\BigSum\BigSum\bin\Debug\BigSum.exe.config
+c:\users\ppetrosino\documents\visual studio 2012\Projects\BigSum\BigSum\bin\Debug\BigSum.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\BigSum\BigSum\bin\Debug\BigSum.pdb
+c:\users\ppetrosino\documents\visual studio 2012\Projects\BigSum\BigSum\obj\Debug\BigSum.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\BigSum\BigSum\obj\Debug\BigSum.pdb

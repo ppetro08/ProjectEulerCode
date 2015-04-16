@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCollatz", "LongestCollatz\LongestCollatz.csproj", "{F4893261-07EC-4BF6-A8DF-4FF92C5CA60F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4893261-07EC-4BF6-A8DF-4FF92C5CA60F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4893261-07EC-4BF6-A8DF-4FF92C5CA60F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4893261-07EC-4BF6-A8DF-4FF92C5CA60F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4893261-07EC-4BF6-A8DF-4FF92C5CA60F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

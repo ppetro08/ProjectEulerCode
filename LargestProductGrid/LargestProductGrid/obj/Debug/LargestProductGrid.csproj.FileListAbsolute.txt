@@ -1,0 +1,6 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\LargestProductGrid\LargestProductGrid\bin\Debug\LargestProductGrid.exe.config
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\LargestProductGrid\LargestProductGrid\bin\Debug\LargestProductGrid.exe
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\LargestProductGrid\LargestProductGrid\bin\Debug\LargestProductGrid.pdb
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\LargestProductGrid\LargestProductGrid\obj\Debug\LargestProductGrid.csprojResolveAssemblyReference.cache
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\LargestProductGrid\LargestProductGrid\obj\Debug\LargestProductGrid.exe
+C:\Users\ppetrosino\Documents\Visual Studio 2012\Projects\LargestProductGrid\LargestProductGrid\obj\Debug\LargestProductGrid.pdb

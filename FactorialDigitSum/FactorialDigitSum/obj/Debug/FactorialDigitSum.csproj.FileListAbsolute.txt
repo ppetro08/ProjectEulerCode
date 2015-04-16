@@ -1,0 +1,6 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\FactorialDigitSum\FactorialDigitSum\bin\Debug\FactorialDigitSum.exe.config
+c:\users\ppetrosino\documents\visual studio 2012\Projects\FactorialDigitSum\FactorialDigitSum\obj\Debug\FactorialDigitSum.csprojResolveAssemblyReference.cache
+c:\users\ppetrosino\documents\visual studio 2012\Projects\FactorialDigitSum\FactorialDigitSum\bin\Debug\FactorialDigitSum.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\FactorialDigitSum\FactorialDigitSum\bin\Debug\FactorialDigitSum.pdb
+c:\users\ppetrosino\documents\visual studio 2012\Projects\FactorialDigitSum\FactorialDigitSum\obj\Debug\FactorialDigitSum.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\FactorialDigitSum\FactorialDigitSum\obj\Debug\FactorialDigitSum.pdb

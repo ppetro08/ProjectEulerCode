@@ -1,0 +1,6 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\LargestProduct\LargestProduct\bin\Debug\LargestProduct.exe.config
+c:\users\ppetrosino\documents\visual studio 2012\Projects\LargestProduct\LargestProduct\obj\Debug\LargestProduct.csprojResolveAssemblyReference.cache
+c:\users\ppetrosino\documents\visual studio 2012\Projects\LargestProduct\LargestProduct\bin\Debug\LargestProduct.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\LargestProduct\LargestProduct\bin\Debug\LargestProduct.pdb
+c:\users\ppetrosino\documents\visual studio 2012\Projects\LargestProduct\LargestProduct\obj\Debug\LargestProduct.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\LargestProduct\LargestProduct\obj\Debug\LargestProduct.pdb

@@ -1,0 +1,5 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PalindromeProduct\PalindromeProduct\bin\Debug\PalindromeProduct.exe.config
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PalindromeProduct\PalindromeProduct\bin\Debug\PalindromeProduct.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PalindromeProduct\PalindromeProduct\bin\Debug\PalindromeProduct.pdb
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PalindromeProduct\PalindromeProduct\obj\Debug\PalindromeProduct.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\PalindromeProduct\PalindromeProduct\obj\Debug\PalindromeProduct.pdb

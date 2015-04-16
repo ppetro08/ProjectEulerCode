@@ -1,0 +1,6 @@
+c:\users\ppetrosino\documents\visual studio 2012\Projects\GradeBook\GradeBook\bin\Debug\GradeBook.exe.config
+c:\users\ppetrosino\documents\visual studio 2012\Projects\GradeBook\GradeBook\obj\Debug\GradeBook.csprojResolveAssemblyReference.cache
+c:\users\ppetrosino\documents\visual studio 2012\Projects\GradeBook\GradeBook\bin\Debug\GradeBook.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\GradeBook\GradeBook\bin\Debug\GradeBook.pdb
+c:\users\ppetrosino\documents\visual studio 2012\Projects\GradeBook\GradeBook\obj\Debug\GradeBook.exe
+c:\users\ppetrosino\documents\visual studio 2012\Projects\GradeBook\GradeBook\obj\Debug\GradeBook.pdb
